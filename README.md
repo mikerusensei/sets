@@ -6,7 +6,7 @@ A respository that contains the source code for implementing basic operations on
 If you find this repository helpful, kindly star this repository and give the author a follow
 
 # :bulb: Contributors
-* [@mikerusensei](https://github.com/mikerusensei) - Front End & Back End
+* [@mikerusensei](https://github.com/mikerusensei)
 
 # :pencil: Pre-Requisites
 * Python 3.11
