@@ -121,8 +121,3 @@ class App:
                 self.running = False
             else:
                 input('Invalid Entry press [Enter] to continue')
-            
-        
-if __name__ == '__main__':
-    app = App()
-    app.run()
